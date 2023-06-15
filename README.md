@@ -6,5 +6,5 @@ Két projektet fogok bemutatni Julia nyelven.
 1. Javasasszony
 - a felhasználó feltesz egy kérdést, amire a javasasszony random választ ad a korábban betáplált válaszok közül.
 - a javasasszony addig válaszolgat, amíg új kérdéseket kap.
-- amint a felhasználó " " -szóközt ad meg inputként, a jóslás véget ér.
+- amint a felhasználó nem ad meg semmit, azaz "üres" kérdést ad meg inputként, a jóslás véget ér.
 
